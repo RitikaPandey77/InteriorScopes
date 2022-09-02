@@ -4,6 +4,7 @@ I have developed this complete portfolio using,
 1. HTML
 2. CSS
 3. JavaScript
+
 And deployed it using GitHub pages!
 
 Kindly feel free to contact the business!
