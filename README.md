@@ -1,7 +1,6 @@
 # InteriorWebsite
-Static Website for Interior Decorator company
+This project is made in support of a small interior decoration business. This website is a complete portfolio of the organization and it includes information about the company and the projects they have dealt with alongwith their customers feedbacks.
 
-This is a static template and it contains some essential services which is needed for any Interior decorator.
-If User go to the service page, user should do enquiry for perticular service from that page.
+Kindly feel free to contact the business!
 
-
+Thank You.
